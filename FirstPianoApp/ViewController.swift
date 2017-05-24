@@ -10,6 +10,8 @@ import UIKit
 import AVFoundation
 import QuartzCore
 
+var ButtonArray : [UIButton] = []
+
 class ViewController: UIViewController {
     
     var variabila : [AVAudioPlayer] = []
@@ -139,8 +141,17 @@ class ViewController: UIViewController {
         C4.layer.borderWidth = 1.0
         C4.layer.borderColor = UIColor.black.cgColor
         
-
+        ButtonArray = [C3,D,E,F,G,A,B,C4]
         
+//        for i in 0 ... ButtonArray.count {
+//            let propertyToCheck = sender.currentTitle!
+//            switch propertyToCheck {
+//            case: action press
+//            UIButton.text == ButtonArray[i] ? UITableViewCell = ButtonArray[i] : 
+//            default: break
+//            }
+//        }
+//        
         do {
         try audioPlayerC3 = AVAudioPlayer(contentsOf: pianoSoundC3 as URL)
         audioPlayerC3.prepareToPlay()
@@ -193,9 +204,9 @@ class ViewController: UIViewController {
     }
 
     @IBAction func C3(_ sender: UIButton) {
-//        audioPlayerC3.currentTime = 0
+       audioPlayerC3.currentTime = 0
 //        audioPlayerC3.enableRate = true
-        audioPlayerC3.rate = Float(5.0)
+//        audioPlayerC3.rate = Float(5.0)
         audioPlayerC3.play()
         
         

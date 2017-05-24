@@ -9,8 +9,12 @@
 import UIKit
 
 
+///var ButtonArray : Array = [C3]
 
+class Note: NSObject{
 
-class Note: NSObject {
-
+    @IBAction func ButtonPush(_ sender : Any){
+        
+    }
+    
 }
