@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12120" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina4_7" orientation="landscape">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -26,7 +26,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="C3" backgroundImage="white.jpg"/>
+                                <state key="normal" title="DO1" backgroundImage="white.jpg"/>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="boolean" keyPath="keyPath" value="YES"/>
                                 </userDefinedRuntimeAttributes>
@@ -39,7 +39,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="D" backgroundImage="white.jpg"/>
+                                <state key="normal" title="RE" backgroundImage="white.jpg"/>
                                 <connections>
                                     <action selector="D:" destination="BYZ-38-t0r" eventType="touchDown" id="TFS-Oi-RBo"/>
                                 </connections>
@@ -49,7 +49,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="E" backgroundImage="white.jpg"/>
+                                <state key="normal" title="MI" backgroundImage="white.jpg"/>
                                 <connections>
                                     <action selector="E:" destination="BYZ-38-t0r" eventType="touchDown" id="4kQ-f0-skJ"/>
                                 </connections>
@@ -59,7 +59,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="F" backgroundImage="white.jpg"/>
+                                <state key="normal" title="FA" backgroundImage="white.jpg"/>
                                 <connections>
                                     <action selector="F:" destination="BYZ-38-t0r" eventType="touchDown" id="8CO-fA-TWe"/>
                                 </connections>
@@ -69,7 +69,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="G" backgroundImage="white.jpg"/>
+                                <state key="normal" title="SOL" backgroundImage="white.jpg"/>
                                 <connections>
                                     <action selector="G:" destination="BYZ-38-t0r" eventType="touchDown" id="MKr-oM-p0M"/>
                                 </connections>
@@ -79,7 +79,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="A" backgroundImage="white.jpg"/>
+                                <state key="normal" title="LA" backgroundImage="white.jpg"/>
                                 <connections>
                                     <action selector="A:" destination="BYZ-38-t0r" eventType="touchDown" id="JLD-h0-YyE"/>
                                 </connections>
@@ -89,7 +89,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="B" backgroundImage="white.jpg"/>
+                                <state key="normal" title="SI" backgroundImage="white.jpg"/>
                                 <connections>
                                     <action selector="B:" destination="BYZ-38-t0r" eventType="touchDown" id="jvg-lD-823"/>
                                 </connections>
@@ -99,7 +99,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="C4" backgroundImage="white.jpg"/>
+                                <state key="normal" title="DO2" backgroundImage="white.jpg"/>
                                 <connections>
                                     <action selector="C4:" destination="BYZ-38-t0r" eventType="touchDown" id="edp-mG-Vbq"/>
                                 </connections>
@@ -108,7 +108,7 @@
                                 <rect key="frame" x="185" y="72" width="39" height="140"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="C#" backgroundImage="black.jpg"/>
+                                <state key="normal" title="DO#" backgroundImage="black.jpg"/>
                                 <connections>
                                     <action selector="CS:" destination="BYZ-38-t0r" eventType="touchDown" id="dsS-0l-CDA"/>
                                 </connections>
@@ -117,7 +117,7 @@
                                 <rect key="frame" x="321" y="72" width="39" height="140"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="F#" backgroundImage="black.jpg"/>
+                                <state key="normal" title="FA#" backgroundImage="black.jpg"/>
                                 <connections>
                                     <action selector="FS:" destination="BYZ-38-t0r" eventType="touchDown" id="l8y-hd-vIR"/>
                                 </connections>
@@ -126,7 +126,7 @@
                                 <rect key="frame" x="368" y="72" width="39" height="140"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="G#" backgroundImage="black.jpg"/>
+                                <state key="normal" title="SOL#" backgroundImage="black.jpg"/>
                                 <connections>
                                     <action selector="GS:" destination="BYZ-38-t0r" eventType="touchDown" id="UzP-hR-dxI"/>
                                 </connections>
@@ -135,7 +135,7 @@
                                 <rect key="frame" x="415" y="72" width="39" height="140"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
-                                <state key="normal" title="A#" backgroundImage="black.jpg"/>
+                                <state key="normal" title="LA#" backgroundImage="black.jpg"/>
                                 <connections>
                                     <action selector="AS:" destination="BYZ-38-t0r" eventType="touchDown" id="Fs8-OO-jVa"/>
                                 </connections>
@@ -144,53 +144,21 @@
                                 <rect key="frame" x="232" y="72" width="39" height="140"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="D#" backgroundImage="black.jpg"/>
+                                <state key="normal" title="RE#" backgroundImage="black.jpg"/>
                                 <connections>
                                     <action selector="DS:" destination="BYZ-38-t0r" eventType="touchDown" id="GlU-wg-pmv"/>
-                                </connections>
-                            </button>
-                            <slider opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="50" minValue="0.0" maxValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="qhK-Dm-5FZ">
-                                <rect key="frame" x="268" y="20" width="219" height="31"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <connections>
-                                    <action selector="slider:" destination="BYZ-38-t0r" eventType="valueChanged" id="dbe-HK-hQu"/>
-                                </connections>
-                            </slider>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="50" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="O8R-0z-WQb">
-                                <rect key="frame" x="137" y="25" width="77" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QAA-i9-dZv">
-                                <rect key="frame" x="29" y="203" width="77" height="30"/>
-                                <state key="normal" title="+"/>
-                                <connections>
-                                    <action selector="increaseValue:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MWd-Uf-qcD"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Pn8-LQ-tO7">
-                                <rect key="frame" x="29" y="311" width="77" height="30"/>
-                                <state key="normal" title="-"/>
-                                <connections>
-                                    <action selector="decreaseValue:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6qg-Y0-U98"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Iqz-Oa-KQM">
                                 <rect key="frame" x="484" y="345" width="183" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Go to PlaybackView"/>
+                                <state key="normal" title="Go to Playback"/>
                                 <connections>
                                     <segue destination="Wee-m7-c6v" kind="show" id="fV1-ZU-vYP"/>
                                 </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                        <constraints>
-                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="Pn8-LQ-tO7" secondAttribute="bottom" constant="34" id="3y1-HO-4gA"/>
-                            <constraint firstItem="Pn8-LQ-tO7" firstAttribute="top" secondItem="QAA-i9-dZv" secondAttribute="bottom" constant="78" id="oSf-h7-rE0"/>
-                        </constraints>
                     </view>
                     <connections>
                         <outlet property="A" destination="ebA-nb-McL" id="fh1-Hq-i2P"/>
@@ -201,7 +169,6 @@
                         <outlet property="E" destination="4x0-9o-pcV" id="v4W-4n-vrf"/>
                         <outlet property="F" destination="FIX-Uw-9Kq" id="efo-XZ-cw9"/>
                         <outlet property="G" destination="zbe-yf-eGX" id="mgX-pC-M0O"/>
-                        <outlet property="lbl" destination="O8R-0z-WQb" id="IVF-aa-P51"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -216,24 +183,16 @@
                         <viewControllerLayoutGuide type="top" id="2OU-8l-udt"/>
                         <viewControllerLayoutGuide type="bottom" id="9OF-P1-3Oc"/>
                     </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="SRs-if-JG6">
+                    <view key="view" multipleTouchEnabled="YES" contentMode="scaleToFill" id="SRs-if-JG6">
                         <rect key="frame" x="0.0" y="0.0" width="667" height="375"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="esI-wP-kXN">
                                 <rect key="frame" x="500" y="345" width="167" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Go to PianoView"/>
+                                <state key="normal" title="Go to Piano"/>
                                 <connections>
                                     <segue destination="BYZ-38-t0r" kind="show" id="kBi-gp-6px"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CZX-we-WTx">
-                                <rect key="frame" x="31" y="42" width="46" height="18"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="DO1"/>
-                                <connections>
-                                    <action selector="C3:" destination="Wee-m7-c6v" eventType="touchUpInside" id="Y7n-2H-M8D"/>
                                 </connections>
                             </button>
                             <button opaque="NO" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yYc-Pe-OgA">
@@ -351,11 +310,50 @@
                                     <action selector="D:" destination="Wee-m7-c6v" eventType="touchUpInside" id="bvZ-qq-1ab"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tXL-JW-xM4">
+                                <rect key="frame" x="333" y="307" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="PLAY"/>
+                                <connections>
+                                    <action selector="PlaySounds:" destination="Wee-m7-c6v" eventType="touchUpInside" id="bLK-rp-KZ5"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4Km-w3-mgW">
+                                <rect key="frame" x="511" y="299" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Clear"/>
+                                <connections>
+                                    <action selector="clearTable:" destination="Wee-m7-c6v" eventType="touchUpInside" id="RAE-6E-fvJ"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CZX-we-WTx">
+                                <rect key="frame" x="10" y="11" width="61" height="40"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="DO1"/>
+                                <connections>
+                                    <action selector="C3:" destination="Wee-m7-c6v" eventType="touchUpInside" id="Y7n-2H-M8D"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="INTERVAL TIME" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3Uo-yS-iZW">
+                                <rect key="frame" x="205" y="1" width="181" height="40"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="0,4" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Okm-4A-Zh4">
+                                <rect key="frame" x="441" y="11" width="116" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" keyboardType="decimalPad" returnKeyType="go" enablesReturnKeyAutomatically="YES"/>
+                            </textField>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <connections>
                         <outlet property="myTableView" destination="6ZP-pe-d8l" id="OkQ-f1-OZM"/>
+                        <outlet property="sleepInterval" destination="Okm-4A-Zh4" id="zkT-Jo-P26"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6LI-hF-rDq" userLabel="First Responder" sceneMemberID="firstResponder"/>

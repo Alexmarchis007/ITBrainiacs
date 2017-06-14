@@ -20,6 +20,8 @@
 		112695EB1EA7D2CA0063E5FE /* SI.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 112695DE1EA7D2CA0063E5FE /* SI.mp3 */; };
 		112695EC1EA7D2CA0063E5FE /* SOL#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 112695DF1EA7D2CA0063E5FE /* SOL#.mp3 */; };
 		112695ED1EA7D2CA0063E5FE /* SOL.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 112695E01EA7D2CA0063E5FE /* SOL.mp3 */; };
+		11859F6C1EEAB2AB0009B868 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11859F6B1EEAB2AB0009B868 /* SecondView.swift */; };
+		11859F6E1EEAB2DD0009B868 /* Sound.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11859F6D1EEAB2DD0009B868 /* Sound.swift */; };
 		11AB60421E8AC4A2002BBB46 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AB60411E8AC4A2002BBB46 /* AppDelegate.swift */; };
 		11AB60441E8AC4A2002BBB46 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AB60431E8AC4A2002BBB46 /* ViewController.swift */; };
 		11AB60471E8AC4A2002BBB46 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11AB60451E8AC4A2002BBB46 /* Main.storyboard */; };
@@ -29,7 +31,6 @@
 		11AB605A1E8AC4A3002BBB46 /* FirstPianoAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AB60591E8AC4A3002BBB46 /* FirstPianoAppTests.swift */; };
 		11AB60651E8AC4A3002BBB46 /* FirstPianoAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AB60641E8AC4A3002BBB46 /* FirstPianoAppUITests.swift */; };
 		11AB60741E8AC6C5002BBB46 /* image in Resources */ = {isa = PBXBuildFile; fileRef = 11AB60731E8AC6C5002BBB46 /* image */; };
-		11C632E51EC3341600AB2C05 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11C632E41EC3341600AB2C05 /* SecondView.swift */; };
 		11FD53FB1EC9C61D00F7F340 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11FD53FA1EC9C61D00F7F340 /* Note.swift */; };
 /* End PBXBuildFile section */
 
@@ -64,6 +65,8 @@
 		112695DE1EA7D2CA0063E5FE /* SI.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = SI.mp3; sourceTree = "<group>"; };
 		112695DF1EA7D2CA0063E5FE /* SOL#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "SOL#.mp3"; sourceTree = "<group>"; };
 		112695E01EA7D2CA0063E5FE /* SOL.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = SOL.mp3; sourceTree = "<group>"; };
+		11859F6B1EEAB2AB0009B868 /* SecondView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		11859F6D1EEAB2DD0009B868 /* Sound.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sound.swift; sourceTree = "<group>"; };
 		11AB603E1E8AC4A2002BBB46 /* FirstPianoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstPianoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11AB60411E8AC4A2002BBB46 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		11AB60431E8AC4A2002BBB46 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,7 +82,6 @@
 		11AB60641E8AC4A3002BBB46 /* FirstPianoAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstPianoAppUITests.swift; sourceTree = "<group>"; };
 		11AB60661E8AC4A3002BBB46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		11AB60731E8AC6C5002BBB46 /* image */ = {isa = PBXFileReference; lastKnownFileType = folder; path = image; sourceTree = "<group>"; };
-		11C632E41EC3341600AB2C05 /* SecondView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 		11FD53FA1EC9C61D00F7F340 /* Note.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -154,10 +156,11 @@
 				112695D31EA7D2CA0063E5FE /* sound */,
 				11AB60411E8AC4A2002BBB46 /* AppDelegate.swift */,
 				11AB60431E8AC4A2002BBB46 /* ViewController.swift */,
-				11C632E41EC3341600AB2C05 /* SecondView.swift */,
 				11AB60451E8AC4A2002BBB46 /* Main.storyboard */,
 				11AB604B1E8AC4A2002BBB46 /* Assets.xcassets */,
+				11859F6B1EEAB2AB0009B868 /* SecondView.swift */,
 				11AB604D1E8AC4A2002BBB46 /* LaunchScreen.storyboard */,
+				11859F6D1EEAB2DD0009B868 /* Sound.swift */,
 				11AB60501E8AC4A2002BBB46 /* Info.plist */,
 				11AB60481E8AC4A2002BBB46 /* FirstPianoApp.xcdatamodeld */,
 				11AB60731E8AC6C5002BBB46 /* image */,
@@ -252,6 +255,7 @@
 				TargetAttributes = {
 					11AB603D1E8AC4A2002BBB46 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = QFU6FG367V;
 						ProvisioningStyle = Automatic;
 					};
 					11AB60541E8AC4A3002BBB46 = {
@@ -332,10 +336,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11859F6C1EEAB2AB0009B868 /* SecondView.swift in Sources */,
+				11859F6E1EEAB2DD0009B868 /* Sound.swift in Sources */,
 				11FD53FB1EC9C61D00F7F340 /* Note.swift in Sources */,
 				11AB604A1E8AC4A2002BBB46 /* FirstPianoApp.xcdatamodeld in Sources */,
 				11AB60441E8AC4A2002BBB46 /* ViewController.swift in Sources */,
-				11C632E51EC3341600AB2C05 /* SecondView.swift in Sources */,
 				11AB60421E8AC4A2002BBB46 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -486,6 +491,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = QFU6FG367V;
 				INFOPLIST_FILE = FirstPianoApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = sda.FirstPianoApp;
@@ -498,6 +504,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = QFU6FG367V;
 				INFOPLIST_FILE = FirstPianoApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = sda.FirstPianoApp;
